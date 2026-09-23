@@ -1,1 +1,1 @@
-https://github.com/Nozistance/ono-tebe-nado-ad
+https://github.com/toosparks/ono-tebe-nado-ad/edit/main/README.md
